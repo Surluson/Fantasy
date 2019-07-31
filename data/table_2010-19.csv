@@ -1,0 +1,181 @@
+,season,name,pos,team,p,w,d,l,f,a,gd,points
+0,2018/2019,Premier League 2018-2019,1,Manchester City,38,32,2,4,95,23,72,98
+1,2018/2019,Premier League 2018-2019,2,Liverpool,38,30,7,1,89,22,67,97
+2,2018/2019,Premier League 2018-2019,3,Chelsea,38,21,9,8,63,39,24,72
+3,2018/2019,Premier League 2018-2019,4,Tottenham Hotspur ,38,23,2,13,67,39,28,71
+4,2018/2019,Premier League 2018-2019,5,Arsenal,38,21,7,10,73,51,22,70
+5,2018/2019,Premier League 2018-2019,6,Manchester United,38,19,9,10,65,54,11,66
+6,2018/2019,Premier League 2018-2019,7,Wolverhampton Wanderers,38,16,9,13,47,46,1,57
+7,2018/2019,Premier League 2018-2019,8,Everton,38,15,9,14,54,46,8,54
+8,2018/2019,Premier League 2018-2019,9,Leicester City,38,15,7,16,51,48,3,52
+9,2018/2019,Premier League 2018-2019,10,West Ham,38,15,7,16,52,55,-3,52
+10,2018/2019,Premier League 2018-2019,11,Watford,38,14,8,16,52,59,-7,50
+11,2018/2019,Premier League 2018-2019,12,Crystal Palace,38,14,7,17,51,53,-2,49
+12,2018/2019,Premier League 2018-2019,13,Newcastle United,38,12,9,17,42,48,-6,45
+13,2018/2019,Premier League 2018-2019,14,Bournemouth,38,13,6,19,56,70,-14,45
+14,2018/2019,Premier League 2018-2019,15,Burnley,38,11,7,20,45,68,-23,40
+15,2018/2019,Premier League 2018-2019,16,Southampton,38,9,12,17,45,65,-20,39
+16,2018/2019,Premier League 2018-2019,17,Brighton,38,9,9,20,35,60,-25,36
+17,2018/2019,Premier League 2018-2019,18,Cardiff City,38,10,4,24,34,69,-35,34
+18,2018/2019,Premier League 2018-2019,19,Fulham,38,7,5,26,34,81,-47,26
+19,2018/2019,Premier League 2018-2019,20,Huddersfield Town,38,3,7,28,22,76,-54,16
+20,2017/2018,Premier League 2017-2018,1,Manchester City,38,32,4,2,106,27,79,100
+21,2017/2018,Premier League 2017-2018,2,Manchester United,38,25,6,7,68,28,40,81
+22,2017/2018,Premier League 2017-2018,3,Tottenham Hotspur ,38,23,8,7,74,36,38,77
+23,2017/2018,Premier League 2017-2018,4,Liverpool,38,21,12,5,84,38,46,75
+24,2017/2018,Premier League 2017-2018,5,Chelsea,38,21,7,10,62,38,24,70
+25,2017/2018,Premier League 2017-2018,6,Arsenal,38,19,6,13,74,51,23,63
+26,2017/2018,Premier League 2017-2018,7,Burnley,38,14,12,12,36,39,-3,54
+27,2017/2018,Premier League 2017-2018,8,Everton,38,13,10,15,44,58,-14,49
+28,2017/2018,Premier League 2017-2018,9,Leicester City,38,12,11,15,56,60,-4,47
+29,2017/2018,Premier League 2017-2018,10,Newcastle United,38,12,8,18,39,47,-8,44
+30,2017/2018,Premier League 2017-2018,11,Crystal Palace,38,11,11,16,45,55,-10,44
+31,2017/2018,Premier League 2017-2018,12,Bournemouth,38,11,11,16,45,61,-16,44
+32,2017/2018,Premier League 2017-2018,13,West Ham United,38,10,12,16,48,68,-20,42
+33,2017/2018,Premier League 2017-2018,14,Watford,38,11,8,19,44,64,-20,41
+34,2017/2018,Premier League 2017-2018,15,Brighton,38,9,13,16,34,54,-20,40
+35,2017/2018,Premier League 2017-2018,16,Huddersfield Town,38,9,10,19,28,58,-30,37
+36,2017/2018,Premier League 2017-2018,17,Southampton,38,7,15,16,37,56,-19,36
+37,2017/2018,Premier League 2017-2018,18,Swansea City,38,8,9,21,28,56,-28,33
+38,2017/2018,Premier League 2017-2018,19,Stoke City,38,7,12,19,35,68,-33,33
+39,2017/2018,Premier League 2017-2018,20,West Bromwich Albion,38,6,13,19,31,56,-25,31
+40,2016/2017,Premier League 2016-2017,1,Chelsea,38,30,3,5,85,33,52,93
+41,2016/2017,Premier League 2016-2017,2,Tottenham Hotspur ,38,26,8,4,86,26,60,86
+42,2016/2017,Premier League 2016-2017,3,Manchester City,38,23,9,6,80,39,41,78
+43,2016/2017,Premier League 2016-2017,4,Liverpool,38,22,10,6,78,42,36,76
+44,2016/2017,Premier League 2016-2017,5,Arsenal,38,23,6,9,77,44,33,75
+45,2016/2017,Premier League 2016-2017,6,Manchester United,38,18,15,5,54,29,25,69
+46,2016/2017,Premier League 2016-2017,7,Everton,38,17,10,11,62,44,18,61
+47,2016/2017,Premier League 2016-2017,8,Southampton,38,12,10,16,41,48,-7,46
+48,2016/2017,Premier League 2016-2017,9,Bournemouth,38,12,10,16,55,67,-12,46
+49,2016/2017,Premier League 2016-2017,10,West Bromwich Albion,38,12,9,17,43,51,-8,45
+50,2016/2017,Premier League 2016-2017,11,West Ham United,38,12,9,17,47,64,-17,45
+51,2016/2017,Premier League 2016-2017,12,Leicester City,38,12,8,18,48,63,-15,44
+52,2016/2017,Premier League 2016-2017,13,Stoke City,38,11,11,16,41,56,-15,44
+53,2016/2017,Premier League 2016-2017,14,Crystal Palace,38,12,5,21,50,63,-13,41
+54,2016/2017,Premier League 2016-2017,15,Swansea City,38,12,5,21,45,70,-25,41
+55,2016/2017,Premier League 2016-2017,16,Burnley,38,11,7,20,39,55,-16,40
+56,2016/2017,Premier League 2016-2017,17,Watford,38,11,7,20,40,68,-28,40
+57,2016/2017,Premier League 2016-2017,18,Hull City,38,9,7,22,37,80,-43,34
+58,2016/2017,Premier League 2016-2017,19,Middlesbrough,38,5,13,20,27,53,-26,28
+59,2016/2017,Premier League 2016-2017,20,Sunderland,38,6,6,26,29,69,-40,24
+60,2015/2016,Premier League 2015-2016,1,Leicester City,38,23,12,3,68,36,32,81
+61,2015/2016,Premier League 2015-2016,2,Arsenal,38,20,11,7,65,36,29,71
+62,2015/2016,Premier League 2015-2016,3,Tottenham Hotspur ,38,19,13,6,69,35,34,70
+63,2015/2016,Premier League 2015-2016,4,Manchester City,38,19,9,10,71,41,30,66
+64,2015/2016,Premier League 2015-2016,5,Manchester United,38,19,9,10,49,35,14,66
+65,2015/2016,Premier League 2015-2016,6,Southampton,38,18,9,11,59,41,18,63
+66,2015/2016,Premier League 2015-2016,7,West Ham,38,16,14,8,65,51,14,62
+67,2015/2016,Premier League 2015-2016,8,Liverpool,38,16,12,10,63,50,13,60
+68,2015/2016,Premier League 2015-2016,9,Stoke City,38,14,9,15,41,55,-14,51
+69,2015/2016,Premier League 2015-2016,10,Chelsea,38,12,14,12,59,53,6,50
+70,2015/2016,Premier League 2015-2016,11,Everton,38,11,14,13,59,55,4,47
+71,2015/2016,Premier League 2015-2016,12,Swansea City,38,12,11,15,42,52,-10,47
+72,2015/2016,Premier League 2015-2016,13,Watford,38,12,9,17,40,50,-10,45
+73,2015/2016,Premier League 2015-2016,14,West Bromwich Albion,38,10,13,15,34,48,-14,43
+74,2015/2016,Premier League 2015-2016,15,Crystal Palace,38,11,9,18,39,51,-12,42
+75,2015/2016,Premier League 2015-2016,16,Bournemouth,38,11,9,18,45,67,-22,42
+76,2015/2016,Premier League 2015-2016,17,Sunderland,38,9,12,17,48,62,-14,39
+77,2015/2016,Premier League 2015-2016,18,Newcastle United,38,9,10,19,44,65,-21,37
+78,2015/2016,Premier League 2015-2016,19,Norwich City,38,9,7,22,39,67,-28,34
+79,2015/2016,Premier League 2015-2016,20,Aston Villa,38,3,8,27,27,76,-49,17
+80,2014/2015,Barclaycard Premier League 2014-2015,1,Chelsea,38,26,9,3,73,32,41,87
+81,2014/2015,Barclaycard Premier League 2014-2015,2,Manchester City,38,24,7,7,83,38,45,79
+82,2014/2015,Barclaycard Premier League 2014-2015,3,Arsenal,38,22,9,7,71,36,35,75
+83,2014/2015,Barclaycard Premier League 2014-2015,4,Manchester United,38,20,10,8,62,37,25,70
+84,2014/2015,Barclaycard Premier League 2014-2015,5,Tottenham Hotspur ,38,19,7,12,58,53,5,64
+85,2014/2015,Barclaycard Premier League 2014-2015,6,Liverpool,38,18,8,12,52,48,4,62
+86,2014/2015,Barclaycard Premier League 2014-2015,7,Southampton,38,18,6,14,54,33,21,60
+87,2014/2015,Barclaycard Premier League 2014-2015,8,Swansea City,38,16,8,14,46,49,-3,56
+88,2014/2015,Barclaycard Premier League 2014-2015,9,Stoke City,38,15,9,14,48,45,3,54
+89,2014/2015,Barclaycard Premier League 2014-2015,10,Crystal Palace,38,13,9,16,47,51,-4,48
+90,2014/2015,Barclaycard Premier League 2014-2015,11,Everton,38,12,11,15,48,50,-2,47
+91,2014/2015,Barclaycard Premier League 2014-2015,12,West Ham United,38,12,11,15,44,47,-3,47
+92,2014/2015,Barclaycard Premier League 2014-2015,13,West Bromwich Albion,38,11,11,16,38,51,-13,44
+93,2014/2015,Barclaycard Premier League 2014-2015,14,Leicester City,38,11,8,19,46,55,-9,41
+94,2014/2015,Barclaycard Premier League 2014-2015,15,Newcastle United,38,10,9,19,40,63,-23,39
+95,2014/2015,Barclaycard Premier League 2014-2015,16,Sunderland,38,7,17,14,31,53,-22,38
+96,2014/2015,Barclaycard Premier League 2014-2015,17,Aston Villa,38,10,8,20,31,57,-26,38
+97,2014/2015,Barclaycard Premier League 2014-2015,18,Hull City,38,8,11,19,33,51,-18,35
+98,2014/2015,Barclaycard Premier League 2014-2015,19,Burnley,38,7,12,19,28,53,-25,33
+99,2014/2015,Barclaycard Premier League 2014-2015,20,Queens Park Rangers,38,8,6,24,42,73,-31,30
+100,2013/2014,Barclaycard Premier League 2013-2014,1,Manchester City,38,27,5,6,102,37,65,86
+101,2013/2014,Barclaycard Premier League 2013-2014,2,Liverpool,38,26,6,6,101,50,51,84
+102,2013/2014,Barclaycard Premier League 2013-2014,3,Chelsea,38,25,7,6,71,27,44,82
+103,2013/2014,Barclaycard Premier League 2013-2014,4,Arsenal,38,24,7,7,68,41,27,79
+104,2013/2014,Barclaycard Premier League 2013-2014,5,Everton,38,21,9,8,61,39,22,72
+105,2013/2014,Barclaycard Premier League 2013-2014,6,Tottenham Hotspur ,38,21,6,11,55,51,4,69
+106,2013/2014,Barclaycard Premier League 2013-2014,7,Manchester United,38,19,7,12,64,43,21,64
+107,2013/2014,Barclaycard Premier League 2013-2014,8,Southampton,38,15,11,12,54,46,8,56
+108,2013/2014,Barclaycard Premier League 2013-2014,9,Stoke City,38,13,11,14,45,52,-7,50
+109,2013/2014,Barclaycard Premier League 2013-2014,10,Newcastle United,38,15,4,19,43,59,-16,49
+110,2013/2014,Barclaycard Premier League 2013-2014,11,Crystal Palace,38,13,6,19,33,48,-15,45
+111,2013/2014,Barclaycard Premier League 2013-2014,12,Swansea City,38,11,9,18,54,54,0,42
+112,2013/2014,Barclaycard Premier League 2013-2014,13,West Ham United,38,11,7,20,40,51,-11,40
+113,2013/2014,Barclaycard Premier League 2013-2014,14,Sunderland,38,10,8,20,41,60,-19,38
+114,2013/2014,Barclaycard Premier League 2013-2014,15,Aston Villa,38,10,8,20,39,61,-22,38
+115,2013/2014,Barclaycard Premier League 2013-2014,16,Hull City,38,10,7,21,38,53,-15,37
+116,2013/2014,Barclaycard Premier League 2013-2014,17,West Bromwich Albion,38,7,15,16,43,59,-16,36
+117,2013/2014,Barclaycard Premier League 2013-2014,18,Norwich City,38,8,9,21,28,62,-34,33
+118,2013/2014,Barclaycard Premier League 2013-2014,19,Fulham,38,9,5,24,40,85,-45,32
+119,2013/2014,Barclaycard Premier League 2013-2014,20,Cardiff City,38,7,9,22,32,74,-42,30
+120,2012/2013,Barclaycard Premier League 2012-2013,1,Manchester United,38,28,5,5,86,43,43,89
+121,2012/2013,Barclaycard Premier League 2012-2013,2,Manchester City,38,23,9,6,66,34,32,78
+122,2012/2013,Barclaycard Premier League 2012-2013,3,Chelsea,38,22,9,7,75,39,36,75
+123,2012/2013,Barclaycard Premier League 2012-2013,4,Arsenal,38,21,10,7,72,37,35,73
+124,2012/2013,Barclaycard Premier League 2012-2013,5,Tottenham Hotspur ,38,21,9,8,66,46,20,72
+125,2012/2013,Barclaycard Premier League 2012-2013,6,Everton,38,16,15,7,55,40,15,63
+126,2012/2013,Barclaycard Premier League 2012-2013,7,Liverpool,38,16,13,9,71,43,28,61
+127,2012/2013,Barclaycard Premier League 2012-2013,8,West Bromwich Albion,38,14,7,17,53,57,-4,49
+128,2012/2013,Barclaycard Premier League 2012-2013,9,Swansea City,38,11,13,14,47,51,-4,46
+129,2012/2013,Barclaycard Premier League 2012-2013,10,West Ham United,38,12,10,16,45,53,-8,46
+130,2012/2013,Barclaycard Premier League 2012-2013,11,Norwich City,38,10,14,14,41,58,-17,44
+131,2012/2013,Barclaycard Premier League 2012-2013,12,Fulham,38,11,10,17,50,60,-10,43
+132,2012/2013,Barclaycard Premier League 2012-2013,13,Stoke City,38,9,15,14,34,45,-11,42
+133,2012/2013,Barclaycard Premier League 2012-2013,14,Southampton,38,9,14,15,49,60,-11,41
+134,2012/2013,Barclaycard Premier League 2012-2013,15,Aston Villa,38,10,11,17,47,69,-22,41
+135,2012/2013,Barclaycard Premier League 2012-2013,16,Newcastle United,38,11,8,19,45,68,-23,41
+136,2012/2013,Barclaycard Premier League 2012-2013,17,Sunderland,38,9,12,17,41,54,-13,39
+137,2012/2013,Barclaycard Premier League 2012-2013,18,Wigan,38,9,9,20,47,73,-26,36
+138,2012/2013,Barclaycard Premier League 2012-2013,19,Reading,38,6,10,22,43,73,-30,28
+139,2012/2013,Barclaycard Premier League 2012-2013,20,Queens Park Rangers,38,4,13,21,30,60,-30,25
+140,2011/2012,Barclaycard Premier League 2011-2012,1,Manchester City,38,28,5,5,93,29,64,89
+141,2011/2012,Barclaycard Premier League 2011-2012,2,Manchester United,38,28,5,5,89,33,56,89
+142,2011/2012,Barclaycard Premier League 2011-2012,3,Arsenal,38,21,7,10,74,49,25,70
+143,2011/2012,Barclaycard Premier League 2011-2012,4,Tottenham Hotspur ,38,20,9,9,66,41,25,69
+144,2011/2012,Barclaycard Premier League 2011-2012,5,Newcastle United,38,19,8,11,56,51,5,65
+145,2011/2012,Barclaycard Premier League 2011-2012,6,Chelsea,38,18,10,10,65,46,19,64
+146,2011/2012,Barclaycard Premier League 2011-2012,7,Everton,38,15,11,12,50,40,10,56
+147,2011/2012,Barclaycard Premier League 2011-2012,8,Liverpool,38,14,10,14,47,40,7,52
+148,2011/2012,Barclaycard Premier League 2011-2012,9,Fulham,38,14,10,14,48,51,-3,52
+149,2011/2012,Barclaycard Premier League 2011-2012,10,West Bromwich Albion,38,13,8,17,45,52,-7,47
+150,2011/2012,Barclaycard Premier League 2011-2012,11,Swansea City,38,12,11,15,44,51,-7,47
+151,2011/2012,Barclaycard Premier League 2011-2012,12,Norwich City,38,12,11,15,52,66,-14,47
+152,2011/2012,Barclaycard Premier League 2011-2012,13,Sunderland,38,11,12,15,45,46,-1,45
+153,2011/2012,Barclaycard Premier League 2011-2012,14,Stoke City,38,11,12,15,36,53,-17,45
+154,2011/2012,Barclaycard Premier League 2011-2012,15,Wigan,38,11,10,17,42,62,-20,43
+155,2011/2012,Barclaycard Premier League 2011-2012,16,Aston Villa,38,7,17,14,37,53,-16,38
+156,2011/2012,Barclaycard Premier League 2011-2012,17,Queens Park Rangers,38,10,7,21,43,66,-23,37
+157,2011/2012,Barclaycard Premier League 2011-2012,18,Bolton Wanderers,38,10,6,22,46,77,-31,36
+158,2011/2012,Barclaycard Premier League 2011-2012,19,Blackburn Rovers,38,8,7,23,48,78,-30,31
+159,2011/2012,Barclaycard Premier League 2011-2012,20,Wolverhampton Wanderers,38,5,10,23,40,82,-42,25
+160,2010/2011,Barclaycard Premier League 2010-2011,1,Manchester United,38,23,11,4,78,37,41,80
+161,2010/2011,Barclaycard Premier League 2010-2011,2,Chelsea,38,21,8,9,69,33,36,71
+162,2010/2011,Barclaycard Premier League 2010-2011,3,Manchester City,38,21,8,9,60,33,27,71
+163,2010/2011,Barclaycard Premier League 2010-2011,4,Arsenal,38,19,11,8,72,43,29,68
+164,2010/2011,Barclaycard Premier League 2010-2011,5,Tottenham Hotspur ,38,16,14,8,55,46,9,62
+165,2010/2011,Barclaycard Premier League 2010-2011,6,Liverpool,38,17,7,14,59,44,15,58
+166,2010/2011,Barclaycard Premier League 2010-2011,7,Everton,38,13,15,10,51,45,6,54
+167,2010/2011,Barclaycard Premier League 2010-2011,8,Fulham,38,11,16,11,49,43,6,49
+168,2010/2011,Barclaycard Premier League 2010-2011,9,Aston Villa,38,12,12,14,48,59,-11,48
+169,2010/2011,Barclaycard Premier League 2010-2011,10,Sunderland,38,12,11,15,45,56,-11,47
+170,2010/2011,Barclaycard Premier League 2010-2011,11,West Bromwich Albion,38,12,11,15,56,71,-15,47
+171,2010/2011,Barclaycard Premier League 2010-2011,12,Newcastle United,38,11,13,14,56,57,-1,46
+172,2010/2011,Barclaycard Premier League 2010-2011,13,Stoke City,38,13,7,18,46,48,-2,46
+173,2010/2011,Barclaycard Premier League 2010-2011,14,Bolton Wanderers,38,12,10,16,52,56,-4,46
+174,2010/2011,Barclaycard Premier League 2010-2011,15,Blackburn Rovers,38,11,10,17,46,59,-13,43
+175,2010/2011,Barclaycard Premier League 2010-2011,16,Wigan,38,9,15,14,40,61,-21,42
+176,2010/2011,Barclaycard Premier League 2010-2011,17,Wolverhampton Wanderers,38,11,7,20,46,66,-20,40
+177,2010/2011,Barclaycard Premier League 2010-2011,18,Birmingham City,38,8,15,15,37,58,-21,39
+178,2010/2011,Barclaycard Premier League 2010-2011,19,Blackpool,38,10,9,19,55,78,-23,39
+179,2010/2011,Barclaycard Premier League 2010-2011,20,West Ham United,38,7,12,19,43,70,-27,33
